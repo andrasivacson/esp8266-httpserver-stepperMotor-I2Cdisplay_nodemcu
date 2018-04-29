@@ -1,0 +1,3 @@
+-- Credentials
+SSID = "WIFI_SSID"
+PASSWORD = "WIFI_PASSWORD"
